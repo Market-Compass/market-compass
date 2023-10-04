@@ -1,0 +1,6 @@
+/node_modules
+next.config.js
+.next
+next-env.d.ts
+.eslintrc.js
+postcss.config.js
